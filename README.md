@@ -1,6 +1,5 @@
 # Crimson v3
-
-> Crimson is a tool that automates `ASSET DISCOVERY` and `VULNERABILITY SCANNING`. 
+Crimson is a tool that automates `ASSET DISCOVERY` and `VULNERABILITY SCANNING`. 
 
 > The container is built on top of the Kali distro. 
 
