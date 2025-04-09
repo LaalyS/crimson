@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="crimson_logo.png" />
+
 </p>
 
 #### It consists of fourth partially interdependent modules:
@@ -34,7 +35,9 @@ docker cp crimson:/root/bounty/domain.name LOCAL_DEST_PATH
 
 
 # Usage
+
 > Commands issued inside a docker container.
+
 ## :diamonds: crimson_IPcon :diamonds:
 #### :diamonds: Module zero needs `IP ADDRESS` or `list_with_ip.txt` :diamonds:
 ```bash
