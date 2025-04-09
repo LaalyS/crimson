@@ -41,7 +41,7 @@ docker cp crimson:/root/bounty/domain.name LOCAL_DEST_PATH
 # The most optimal use:
 c_0 -l ip.txt -t -u -p -k '' -v -b
 ```
-```bash
+``` bash
 crimson_IPcon -i IPADDRESS
         
         # Optional flags are shown below:
